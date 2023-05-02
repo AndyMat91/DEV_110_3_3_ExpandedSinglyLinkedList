@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExpandedSinglyLinkedList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExpandedSinglyLinkedList_jar</output-path>
+    <root id="archive" name="ExpandedSinglyLinkedList.jar">
+      <element id="module-output" name="ExpandedSinglyLinkedList" />
+    </root>
+  </artifact>
+</component>
